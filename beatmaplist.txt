@@ -5,10 +5,12 @@
 109105 WHITE ASH - Crowds (TV Size) [no video]
 117994 Uchida Maaya - INNOCENT NOTE (TV Size)
 1208 ORANGE RANGE - Ikenai Taiyou
+121064 Amane - Purity Red
 122605 yuikonnu - Kakushigoto [no video]
 122658 Harada Hitomi, Kayano Ai & Ogura Yui - Maware! Setsugekka (TV Size)
 123593 Rostik - Liquid (Paul Rosenthal Remix)
 12377 IOSYS - Heartful Necromancer
+124311 Stufff - Spooky Scary Skrilletons
 124997 Hatsune Miku - Kouon Chu Oniki Test
 12734 Shoji Meguro - Bloody Destiny
 128022 Eminem - Rap God
@@ -127,6 +129,7 @@
 375648 S3RL - Bass Slut (Original Mix)
 378183 MOMOIRO CLOVER Z - SANTA SAN
 38579 supercell - My Dearest (TV Size)
+387700 toby fox - MEGALOVANIA
 387784 Shawn Wasabi - Marble Soda
 388428 Reol - Midnight Stroller
 39563 SOUND HOLIC - Tokimeki_Reitou Pack [no video]
@@ -165,11 +168,15 @@
 440001 Machico - fantastic dreamer(TV-size)
 442510 Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft nicamoq (StripeP Remix)
 444632 MYTH & ROID - STYX HELIX
+44475 Skrillex - Rock N' Roll (Will Take You to the Mountain)
+446774 Krewella - Say Goodbye
 449570 Nikorinpana - after school NAVIGATORS
 45107 Floxytek vs Billx - 30's Swing Tek
+453953 kamome sano - archive__zip
 454477 Childish Gambino - Bonfire
 45720 Iguchi Yuka - Platinum Disco (TV Size) [no video]
 459149 Ayase Rie - Yuima-ru_World TVver [no video]
+461509 Marshmello - Alone
 467337 yuikonnu - Yume Chizu
 470977 Mili - worldexecute(me);
 472143 Cash Cash - Overtime
@@ -184,12 +191,14 @@
 484532 Kano - Sukisuki Zecchoushou
 485597 Reol - Syrup
 486142 cYsmix - Fright March
+486454 Yomi - D's Adventure Note Remake-ban
 486535 cYsmix - Moonlight Sonata
 488238 cYsmix - Classic Pursuit
 489039 GARNiDELiA - Gokuraku Jodo
 494641 MOB CHOIR - 99 (TV Size) [no video]
 497483 REOL - Give me a break Stop now
 501804 Rem(CV-Minase Inori) - Wishing
+501920 Tristam - I Remember
 506483 Icon For Hire - Make A Move
 509064 REOL - YoiYoi Kokon
 510663 Chata - Dango Daikazoku
@@ -199,6 +208,7 @@
 522666 REOL - Summer Horror Party
 522872 BobGmbH - BEST OF IMPOSSIBLE REMIX
 525926 KOBASOLO & Lefty Hand Cream - Zen Zen Zense
+526627 LeaF - Alice in Misanthrope -Ensei Alice-
 527207 Shokk - You Reposted in the Wrong Neighborhood [no video]
 527661 Porter Robinson & Madeon - Shelter
 5285 IOSYS - Cirno's Perfect Math Class
@@ -210,6 +220,7 @@
 537048 Erehamonika remixed by kors k - Der Wald (Kors K Remix)
 53857 Saiya - Remote Control
 542081 Elmo and Cookie Monster - Cookie-Butter-Choco-Cookie
+542163 P_Light - 2 MINUTES FIGHTERS
 542317 Memme - Avalanche
 544022 Asterisk - Monthly Girl Nozaki-Kun - Fortune
 54416 LiSA - crossing field (TV Size)
@@ -230,6 +241,7 @@
 576534 Mia REGINA - Choumusubi Amulet (TV Size)
 577617 Various Artists - Piano 7K BMS Pack
 578814 Reol - Logic Agent
+581729 jioyi - cyanine
 582089 Camellia Vs Akira Complex - Reality Distortion
 582661 Yunomi - Sayonara Invader (ft TORIENA)
 585794 Levela & Dub Zero - Overdrive
@@ -252,6 +264,7 @@
 609189 Omoi - Chiisana Koi no Uta (Synth Rock Cover)
 610967 M2U - Magnolia (feat Guriri)
 616482 DECO-27 - Reversible Campaign
+616637 Celldweller - Weaponized
 619639 Camellia - Towards The Horizon
 619807 USAO - Boss Rush
 620973 simo - Nanairo no Nico Nico Douga
@@ -273,6 +286,7 @@
 661919 ClariS - SHIORI -TV size mix-
 667454 Junichi Masuda - Tokiwa e no Michi - Masara yori
 6687 Hatsune Miku - World is Mine [no video]
+670373 Tha Trickaz - LGND
 671199 DECO_27 - HIBANA feat Hatsune Miku
 672769 Dan Salvato - Doki Doki Literature Club!
 674401 ORESKABAND - Pinocchio
@@ -319,6 +333,7 @@
 731899 Gohma - Forward
 739330 Ex Battalion & OC Dawgs - Hayaan mo Sila
 740862 Feryquitous feat Aitsuki Nakuru - Kairikou
+743357 mzet_-P - Arcana Force
 754219 TheFatRat ft Laura Brehm - MAYDAY (Nightcore Mix)
 756794 TheFatRat - Mayday (feat Laura Brehm)
 757813 Cranky - Libera me
@@ -328,6 +343,7 @@
 762468 Bonnie Film Productions - Gravity Oof Theme Song
 763337 toby fox & RichaadEB - Megalovania Dual Mix
 763819 Ito Kanako - Fatima (TV Size) [no video]
+764602 Sex Whales & Fraxo - Dead To Me (Instrumental)
 770300 Aitsuki Nakuru - Monochrome Butterfly
 770361 Can't Stop Won't Stop (feat Fresh Big Mouf) - Mighty & High
 771463 Alan Walker - Sing Me To Sleep
@@ -339,28 +355,35 @@
 78400 Jeff Williams - Red Like Roses (feat Casey Lee Williams)
 785774 LukHash - GLITCH
 785858 THE ORAL CIGARETTES - ReI
+787129 Goblins from Mars - Enough
 788905 Sporty-O - Let Me Hit It (Audiostalkers Original Mix)
 789247 Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The
 79049 u's - Bokura wa Ima no Naka de
 791805 hyleo & sakuraburst - Galaxy Cutter
 792567 Lon - Ochame Kinou
 798261 TheFatRat - MAYDAY (feat Laura Brehm)
+800568 XXXTENTACION - SAD!
+801483 Eminem - Rap God
 804230 maki ligon - Despito (cursed eurobeat mix) - INITIAL Despacito
 806082 Dictate - Cortex
 8078 Oriental ST8 - Shoreline
 8086 Hatsune Miku - Kischer Marsch-OWATA
 813451 Serizawa Yu - Saiaku na Hi demo Anata ga Suki (TV Size)
 813454 Nanawo Akari - One Room Sugar Life (TV Size)
+814673 Feryquitous - Central Nucleus
 814893 kizuna ai - Hello,Morning
 814944 Hugh Jackman & Zac Efron - The Other Side
 816211 Arihara Nanami (CV_ Kusuhara Yui) - Sympathy
+821050 Priority One & TwoThirds - City Needs Sleep (Fox Stevenson Remix)
 823589 SCANDAL - HARUKAZE
 824132 Tadokoro Azusa - 1HOPE SNIPER
+826369 Bazzi - Mine
 827723 RIZEKI - Despacito 2 (Trailer Size)
 8284 Hatsune Miku - Hatsune Miku no Shoushitsu [no video]
 831242 Yuyoyuppe - Hidamari no Uta
 834481 Goblins from Mars - Genie
 83572 ani feat moco - Light up My Love
+838383 Poppy - I'm Poppy
 839864 S3RL - Catchit (Radio Edit)
 841277 Eve - As You Like It [no video]
 847812 J Pachelbel - Canon (Cranky Remix)
@@ -376,6 +399,7 @@
 865746 the peggies - Kimi no Sei (TV Size)
 865871 PewDiePie X PartyInBackyard - Bitch Lasagna (T-Series Diss Track) [no video]
 867074 Reol - Heimenkyou
+869960 AAAA Chazuke - Sayonara Cosmonaut [Long ver]
 872310 Maki Ligon & Karamitasu - Touhou vs Fortnite Dance Compilation [no video]
 872884 FranChouChou - Adabana Necromancy (TV Size)
 874895 Mili - Rightfully
@@ -384,6 +408,7 @@
 881769 HO-KAGO TEA TIME - Tenshi ni Fureta yo! (Asterisk DnB Remix)
 885878 Shin Agnes - Shining Star (TV Size)
 886111 BeasttrollMC - Hit or Miss
+887008 Camellia - Welcome To The Cyphisonia
 889313 THE ORAL CIGARETTES - BLACK MEMORY
 890078 Travis Scott - SICKO MODE
 891335 HyuN feat JeeE - Fallen Angel
@@ -407,6 +432,7 @@
 923540 HAG - Songs Compilation
 926885 Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix)
 928648 Ito Kanako - Side Effect
+934144 Halogen - U Got That (Camellia's Neurofunk Bootleg)
 943606 maki ligon - Chikatto Chika Chikattsu [no video]
 94623 Belle Lawrence - Bad Day (Nightcore Mix)
 9577 Hanazawa Kana - Renai Circulation [no video]
